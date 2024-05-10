@@ -1,0 +1,8 @@
+{
+    "plugins": {
+      "SplashScreen": {
+        "launchShowDuration": 0
+      }
+    }
+  }
+  
