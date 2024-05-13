@@ -1,5 +1,5 @@
 {
-  "name": "photo-galery",
+  "name": "photo-gallery",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -28,7 +28,6 @@
     "@capacitor/haptics": "6.0.0",
     "@capacitor/keyboard": "6.0.0",
     "@capacitor/preferences": "^6.0.0",
-    "@capacitor/splash-screen": "^6.0.0",
     "@capacitor/status-bar": "6.0.0",
     "@ionic/angular": "^8.0.0",
     "@ionic/pwa-elements": "^3.2.2",
